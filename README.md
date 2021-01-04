@@ -31,15 +31,15 @@ I'm an Information technology undergraduate; Currently undertaking Bachelor's in
 
 ## Contact Me ☎️
 
-* Connect with me on [LinkedIn](https://linkedin.com/in/tamanna-tiwari)
-* Read & Follow me on  [Medium](https://t-18.medium.com)
+* Connect with me on [LinkedIn](www.linkedin.com/in/devansh-vekariya)
+* Read & Follow me on  [Instagram](https://www.instagram.com/devansh_vekariya/)
 
 Thankyou!! ✌️
 <br />
 <br />
 
 <p align="center">
-<a href="www.linkedin.com/in/tamanna-tiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="T-18" height="30" width="30" /></a>
-<a href="https://instagram.com/txnu._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="txnu._" height="30" width="30" /></a>
+<a href="www.linkedin.com/in/devansh-vekariya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="T-18" height="30" width="30" /></a>
+<a href="https://www.instagram.com/devansh_vekariya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="txnu._" height="30" width="30" /></a>
 </a>
 </p>
