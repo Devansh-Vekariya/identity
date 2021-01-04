@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="tenor.gif" alt="hello" /> </p>
 <h1 align="center">  👋, I'm Devansh Vekariya </h1>
 <!--
 **T-18/T-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
